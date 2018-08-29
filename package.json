@@ -21,7 +21,6 @@
     },
     "homepage": "https://github.com/yuyedaidao/apk-parser#readme",
     "dependencies": {
-        "fs": "0.0.1-security",
         "js-yaml": "^3.12.0",
         "xml2js": "^0.4.19"
     },
