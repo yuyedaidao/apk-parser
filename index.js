@@ -1,6 +1,7 @@
 const path = require('path')
 const extractApk = require('./lib/extract')
 const { readXml, readYml } = require('./lib/read')
+const fs = require('fs')
 
 const apkParse = async(apkPath, iconOutPath) => {
     try {
